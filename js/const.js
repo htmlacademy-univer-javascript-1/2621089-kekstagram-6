@@ -13,7 +13,7 @@ const DESCRIPTIONS =[
   'Новый друг',
   'Прекрасный день',
   'Яркий момент',
-  'Крутой денЬ'
+  'Крутой день'
 ];
 
 export { MESSAGES,NAMES,DESCRIPTIONS };
